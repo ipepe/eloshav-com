@@ -1,16 +1,35 @@
 # Dev Portfolio Template
 
-This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
+This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and CoffeScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
 
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio-template/).
 
-## Features
+## Changes by ipepe
 
-* Gulp ready (compiles Sass and minifies JS)
-* Sass ready with lots of commenting
-* Fully responsive
-* Comes with Bootstrap grid system
-* Easy colour changes can be done through simply variable edits
+ * Converted from Gulp to Jekyll
+ * Thrown away unecessary javascript animations
+ * Thrown away unecessary Google Fonts
+ * Upgraded jQuery to 3.2.0
+ * Changed to absolute paths instead of relative for files
+ * Changed JavasScript to CoffeScript.
+ * Everything made configurable from _config.yml file
+ 
+Because of all changes, this made readme outdated (Except Jekyll section). So basically
+
+## Jekyll - Github Pages
+
+
+To start jekyll locally(before start look at setup):
+```
+bundle exec jekyll server
+```
+
+### Setup Jekyll
+
+1. Install ruby (best is rbenv, then ```gem install bundler```)
+1. Go to project dir
+1. ```bundle install```
+1. ```bundle exec jekyll server```
 
 ## Contents
 
