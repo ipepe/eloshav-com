@@ -51,6 +51,7 @@ educations:
   - school_name: Polish-Japanese Academy Of Information Technology
     dates: 2012 - 2017
     url: http://www.pja.edu.pl/en/
+    img_url: assets/images/education/pjatk.png
     title: Engineer degree in The Faculty of Information Technology
     speciality: Networks of Mobile Devices
     thesis: Urban navigation based on WIFI location data
@@ -58,6 +59,7 @@ educations:
     related: Ruby On Rails, Big data, WIFI, Android, Geolocation, PostGIS
   - school_name: Academic High School under supervision of Polish-Japanese Academy Of Information Technology
     dates: 2008 - 2011
+    img_url: assets/images/education/alo.png
     url: http://liceum.pja.edu.pl/
     title: Secondary Education
     speciality: Information Technology
