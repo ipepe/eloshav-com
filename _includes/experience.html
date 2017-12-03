@@ -3,9 +3,13 @@
     <div id="experience-timeline">
         {% for exp in site.experiences %}
             <div data-date="{{ exp.dates }}">
-                <h3>{{ exp.employer_name}}</h3>
+                <a href="http://www.{{ exp.employer_name}}/">
+                    <h3>{{ exp.employer_name}}</h3>
+                </a>
                 <h4>{{ exp.title }}</h4>
-                <p>{{ exp.description}}</p>
+                <p>{{ exp.description}}</p><br/>
+                {% if exp.stack %}<p>Full stack: {{ exp.stack }}</p> {% endif %}
+                <small>Related: {{ exp.related }}</small>
             </div>
         {% endfor %}
     </div>

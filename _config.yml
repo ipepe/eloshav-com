@@ -1,90 +1,105 @@
 # Customize page from here
-title: page title
-description: page description
+root_path: ipepe.pl
+title: Patryk Ptasiński's Official Website
+description: Welcome to Patryk Ptasiński official website! You can check brief history of my experience, my opinions or You can contact me.
 
-lead_name: Your Name
-lead_subtitle: Software Engineer
-lead_backgroud_img_url: "assets/images/lead-bg.jpg"
-resume_download_link: "assets/images/project.jpg"
+lead_name: Patryk Ptasiński
+lead_subtitle: Curiosity driven Fullstack Developer
+resume_download_link: "assets/resumes/Patryk_Ptasinski_Resume.pdf"
 
-form_email: example@example.org
-copyright_name: Your Copyright here
+form_email: homepage@ipepe.pl
+copyright_name: Patryk Ptasiński
 
 about_me: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat. Donec
-  eu vehicula neque. Donec viverra lorem nunc, tempus euismod eros sollicitudin ut. Quisque et tincidunt libero. Donec id pharetra justo. Proin euismod lacinia dolor, eu scelerisque justo tempus pharetra. Vivamus nunc justo, finibus
-  ut nisl sed, euismod rhoncus nulla. Proin sed magna egestas, egestas ante et, congue eros. In consequat, mauris dapibus tincidunt suscipit, ex libero aliquet diam, at maximus risus enim non leo.
+  Curiosity-driven Full Stack Developer. Jack of all trades, master of none. Information Technology enthusiast since childhood. Published multiple packages in NPMjs, DockerHub and a few applications in Google Play Market. Rebuilt several two-stroke engines for sport/racing use. A dozen hours of performed live stream coding. 100k+ views on uploaded YouTube videos. Driving licence since the age of 16 with the result of 200’000+ kilometres driven to date. Hacktoberfest 2017 Participant. Cars and motorcycles enthusiast. Mobile games developer and Bitcoin and Blockchain user.
 
 experiences:
-  - employer_name: Stack Overflow
-    title: Senior Question Generator
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-    dates: September 2015 – September 2016
-  - employer_name: Facebook
-    title: Selfie Specialist
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-    dates: September 2014 – September 2015
+  - employer_name: DaftCode.pl
+    title: Senior Ruby Developer
+    description: "Responsible for planning, estimating and distributing work in project, architecture and quality of code for medium Rails application related to 3D Printing. Created an online 3D models CAD editor."
+    stack: "Bootstrap, Three.js, Ruby on Rails, PostgreSQL, Redis and Elasticsearch."
+    related: "Kanbanery, Capistrano, Integration, AirBrake (Errbit), Monitoring and GitLab."
+    dates: 2017 – Present
+  - employer_name: In4mates.com
+    title: Lead Ruby Developer
+    description: "Technical lead developer in a big project related to the accounting. Managed team of 5 developers. Responsible for architecture, maintenance, deployment - whole system development life cycle."
+    stack: "Bootstrap, EmberJS, Bower, NPM, Ruby on Rails, PostgreSQL and Docker"
+    related: "Jenkins, Redmine, Capistrano, Vagrant, Integration, Monitoring and GitLab."
+    dates: 2015 - 2017
+  - employer_name: Gaz-System.pl
+    title: Systems Administrator and T2 Helpdesk
+    description: "Performed second level on-site Helpdesk. Administrator of packages, applications and compliance for SCCM (2500 workstations) and on-site Aactive Directory managment (600 users and computers)."
+    related: "DevOps, Zabbix, PowerShell, VBScript, Acronis, Hardware Inventory, SLA, Microsoft Deployment Toolkit."
+    dates: 2012 - 2014
+  - employer_name: DigitalVirgo.pl
+    title: 24x7 Helpline Support
+    description: "Responsible for supporting Paid SMS Gateway and part-time Helpdesk Support."
+    related: "DevOps, SLA, Linux, Nagios, Scripting, Hardware Inventory and Software Lincesing."
+    dates: 2012
+  - employer_name: Synergia-Polska.pl
+    title: Outsourced Systems Administrator and Helpdesk
+    description: "Responsible for the infrastructure of multiple client companies. Developed multiple small tools and applications in Java and C-Sharp."
+    related: "SLA, Monitoring, VNC, DevOps, Hardware and Software Technical Support."
+    dates: 2011
+  - employer_name: Lacan.com.pl
+    title: Junior OpenERP Developer and Helpdesk Support
+    description: "Created multiple OpenERP modules. Performed duties as Secondary Systems Administrator and resolved Helpdesk tickets."
+    related: "SLA, DevOps, Spiceworks, Monitoring, VNC, Python and MySQL."
+    dates: 2010
 
 educations:
-  - school_name: University of Ottawa
-    dates: Sept 2017 - Sept 2018
-    title: Master of Science in Computer Science
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-  - school_name: University of Ottawa
-    dates: Sept 2016 - Sept 2017
-    title: Bachelor of Science in Computer Science
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+  - school_name: Polish-Japanese Academy Of Information Technology
+    dates: 2012 - 2017
+    url: http://www.pja.edu.pl/en/
+    title: Engineer degree in The Faculty of Information Technology
+    speciality: Networks of Mobile Devices
+    thesis: Urban navigation based on WIFI location data
+    advisor: dr. inż. Michał Tomaszewski
+    related: Ruby On Rails, Big data, WIFI, Android, Geolocation, PostGIS
+  - school_name: Academic High School under supervision of Polish-Japanese Academy Of Information Technology
+    dates: 2008 - 2011
+    url: http://liceum.pja.edu.pl/
+    title: Secondary Education
+    speciality: Information Technology
+    related: Java, SQL, UML
 
 projects:
-  - name: Google
-    url: http://google.com/
-    img_url: assets/images/project.jpg
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-  - name: Twitter
-    url: http://twitter.com/
-    img_url: assets/images/project.jpg
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-
+  - name: Skrimarket by Skriware
+    url: https://skrimarket.com/
+    img_url: assets/images/projects/skrimarket.png
+    description: Print and share amazing 3D designs. A dedicated market with high quality models for Skriware 3D printer.
+  - name: TaxOrder
+    url: http://taxorder.pl/
+    img_url: assets/images/projects/taxorder.png
+    description: Very big platform to manage accounting office. A web application that helped customers create invoices, manage employees and calculate taxes under supervision of accountants.
+  - name: Alphatrix
+    url: https://play.google.com/store/apps/details?id=pl.ipepe.android.alphatrix
+    img_url: assets/images/projects/alphatrix.png
+    description: Created over few weekends. This mind breaking game is quite addictive, although short... Maybe I will create a continuation for it one day?
+  - name: Foosball Open Ranking
+    url: https://github.com/ipepe/foosball-open-ranking
+    img_url: assets/images/projects/foosball.png
+    description: In our company there was always a doubt who is the best in Foosball. So I created this ranking website to reveal the best players!
 
 skills:
-  - JavaScript
-  - Python
-  - Ruby
-  - Go
-  - Node.js
-  - AngularJs
-  - React
-  - Elixir
-  - Java
-  - C
-  - C#
-  - C++
   - Ruby on Rails
-  - JavaScript
-  - Python
-  - Ruby
-  - Go
-  - Node.js
-  - AngularJs
-  - React
-  - Elixir
-  - Java
-  - C
-  - C#
-  - C++
-  - Ruby on Rails
+  - PostgreSQL
+  - Android Development
+  - Web Crawling
+  - jQuery vs Vanilla JS
+  - Bootstrap CSS
+  - "Linux - Debian Family"
+  - Git
+  - Local Network Configuration
+  - Windows and Linux Network File Sharing and Backup
+  - Arduino
+  - LaTeX
+  - Data Science with Python
+  - iOS Development
 
 social_buttons:
-  - iconkey: stack-overflow
-    url: https://stackoverflow.com/
   - iconkey: github
-    url: https://github.com/
-  - iconkey: facebook
-    url: https://www.facebook.com/
-  - iconkey: twitter
-    url: https://www.twitter.com/
-  - iconkey: google-plus
-    url: https://plus.google.com/
+    url: https://github.com/ipepe
 
 #    Jekyll Config & Plugins     #
 markdown: kramdown
