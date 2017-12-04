@@ -66,6 +66,10 @@ educations:
     related: Java, SQL, UML
 
 projects:
+  - name: DaftChristmas
+    url: https://ipepe.github.io/dc-design-hackathon/
+    img_url: assets/images/projects/daftchristmas.png
+    description: Together with colleague from design we created this scene in ThreeJS during hackathon in DaftCode. Merry Christmas!
   - name: Skrimarket by Skriware
     url: https://skrimarket.com/
     img_url: assets/images/projects/skrimarket.png
