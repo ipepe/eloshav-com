@@ -2,7 +2,7 @@
     <h2>Get in Touch</h2>
     <div id="contact-form">
         <form method="POST" action="https://formspree.io/{{ site.form_email }}">
-            <input type="hidden" name="_next" value="{{ site.root_path }}" />
+            <input type="hidden" name="_next" value="thanks.html" />
             <input type="hidden" name="_subject" value="Contact request from personal website" />
             <input type="email" name="_replyto" placeholder="Your email" >
             <textarea name="message" placeholder="Your message" required="required"></textarea>
