@@ -73,11 +73,11 @@ projects:
   - name: Skrimarket by Skriware
     url: https://skrimarket.com/
     img_url: assets/images/projects/skrimarket.png
-    description: Print and share amazing 3D designs. A dedicated market with high quality models for Skriware 3D printer.
+    description: Printing and sharing amazing 3D designs. Created CAD in browser for building 3D models to print.
   - name: TaxOrder
     url: http://taxorder.pl/
     img_url: assets/images/projects/taxorder.png
-    description: Very big platform to manage accounting office. A web application that helped customers create invoices, manage employees and calculate taxes under supervision of accountants.
+    description: Very big platform to manage accounting office. A web application that helps customers create invoices, manage employees and calculate taxes under supervision of accountants.
   - name: Alphatrix
     url: https://play.google.com/store/apps/details?id=pl.ipepe.android.alphatrix
     img_url: assets/images/projects/alphatrix.png
