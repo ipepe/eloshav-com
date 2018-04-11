@@ -14,12 +14,18 @@ about_me: >
   Curiosity-driven Full Stack Developer. Jack of all trades, master of none. Information Technology enthusiast since childhood. Published multiple packages in NPMjs, DockerHub and a few applications in Google Play Market. Rebuilt several two-stroke engines for sport/racing use. A dozen hours of performed live stream coding. 100k+ views on uploaded YouTube videos. Driving licence since the age of 16 with the result of 200’000+ kilometres driven to date. Hacktoberfest 2017 Participant. Cars and motorcycles enthusiast. Mobile games developer and Bitcoin and Blockchain user.
 
 experiences:
+  - employer_name: Skriware
+    title: Senior Three.js/Ruby Developer
+    description: 'Responsible for creating a custom Three.js tool'
+    stack: 'Ruby on Rails, Three.js'
+    related: 'Wunderlist, 3D Modeling, Shaders, WebGL performance, Architecture'
+    dates: 2018 - Present
   - employer_name: DaftCode.pl
     title: Senior Ruby Developer
     description: "Responsible for planning, estimating and distributing work in project, architecture and quality of code for medium Rails application related to 3D Printing. Created an online 3D models CAD editor."
     stack: "Bootstrap, Three.js, Ruby on Rails, PostgreSQL, Redis and Elasticsearch."
     related: "Kanbanery, Capistrano, Integration, AirBrake (Errbit), Monitoring and GitLab."
-    dates: 2017 – Present
+    dates: 2017
   - employer_name: In4mates.com
     title: Lead Ruby Developer
     description: "Technical lead developer in a big project related to the accounting. Managed team of 5 developers. Responsible for architecture, maintenance, deployment - whole system development life cycle."
@@ -102,7 +108,7 @@ skills:
   - Git
   - Local Network Configuration
   - Windows and Linux Network File Sharing and Backup
-  - ThreeJS (WebGL and basic Computer Graphics)
+  - Three.js (WebGL and Computer Graphics)
   - Arduino
   - LaTeX
   - Data Science with Python
