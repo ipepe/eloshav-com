@@ -66,6 +66,10 @@ educations:
     related: Java, SQL, UML
 
 projects:
+  - name: 3Dless.com
+    url: https://3dless.com/
+    img_url: assets/images/projects/3dless.png
+    description: In my spare time of working with Three.js, I created a tool for simplifying 3d models by reducing vertices in mesh.
   - name: DaftChristmas
     url: https://ipepe.github.io/dc-design-hackathon/
     img_url: assets/images/projects/daftchristmas.png
