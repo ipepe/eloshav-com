@@ -7,19 +7,19 @@ root_path: eloshav.com
 medias:
 - title: YouTube
   url: "https://www.youtube.com/user/Eloshav?sub_confirmation=1"
-  img: "/assets/images/youtube.png"
+  img: "assets/images/youtube.png"
 
 - title: Twitch.tv
-  img: "/assets/images/twitch.png"
   url: "https://www.twitch.tv/eloshav"
+  img: "assets/images/twitch.png"
 
 - title: Discord
-  img: "/assets/images/discord.png"
   url: "https://discordapp.com/invite/ecdTCyR"
+  img: "assets/images/discord.png"
 
 - title: Steam
   url: "https://steamcommunity.com/id/eloshav"
-  img: "/assets/images/steam.png"
+  img: "assets/images/steam.png"
 
 
 
